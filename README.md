@@ -1,4 +1,4 @@
-# Plugin-React-UserChat
+# Generic plugin
 
 This plugin is used to support Generic Plugin around a PulseTile ReactJS based application.
 
